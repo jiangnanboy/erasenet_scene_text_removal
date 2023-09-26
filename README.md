@@ -12,7 +12,7 @@ For this project, I made some adaptations and changes:
 
 4. Distributed training was removed
 
-5. Some errors in training were changed
+5. Some errors in training were corrected
 
 ### Environment
 
